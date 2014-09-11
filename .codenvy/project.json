@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"runner.name","value":["ruby-webapp-default"]},{"name":"runner.env_id","value":["ruby210_rails403"]}]}
+{"attributes":{"runner.env_id":["ruby210_rails403"]},"projectTypeId":"blank","builder":null,"runner":"ruby-webapp-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":"ruby210_rails403","builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
