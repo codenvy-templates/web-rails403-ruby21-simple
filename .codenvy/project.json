@@ -1,1 +1,1 @@
-{"attributes":{"runner.env_id":["ruby210_rails403"]},"projectTypeId":"blank","builder":null,"runner":"ruby-webapp-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":"ruby210_rails403","builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"type":"blank","attributes":{},"builders":{},"runners":{"default":"ruby-webapp-default","configs":{}}}
