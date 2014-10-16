@@ -1,1 +1,1 @@
-{"type":"blank","attributes":{},"runners":{"default":"system:/ruby-webapp-default/ruby210_rails403","configs":{}},"builders":{}}
+{"type":"blank","attributes":{},"runners":{"default":"system:/ruby/web/ruby210_rails403","configs":{}},"builders":{}}
