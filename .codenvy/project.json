@@ -1,1 +1,1 @@
-{"type":"blank","properties":[{"name":"runner.name","value":["ruby-webapp-default"]},{"name":"runner.env_id","value":["ruby210_rails403"]}]}
+{"type":"ruby","properties":[{"name":"runner.name","value":["ruby-webapp-default"]},{"name":"runner.env_id","value":["ruby210_rails403"]}]}
